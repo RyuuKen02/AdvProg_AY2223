@@ -26,7 +26,7 @@
 #include <set>
 #include <fstream>
 #include "simpleai.h"
- 
+
 #include "util.h"
 
 using namespace std;
